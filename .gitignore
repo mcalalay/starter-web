@@ -1,2 +1,3 @@
 toBeIgnored.txt
 log/
+*.orig

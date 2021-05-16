@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Matthew Calalay mcalalay24@gmail.com
 
 # THANKS
 

@@ -18,3 +18,6 @@ yeah more of textssssss
 ###Copyright
 
 2021 Git.Training
+
+##How to Contribute
+please fork this repository

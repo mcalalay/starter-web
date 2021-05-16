@@ -14,3 +14,7 @@ Sample website with plenty of files for demos
 This is a simpple web project, deployment
 
 yeah more of textssssss
+
+###Copyright
+
+2021 Git.Training
